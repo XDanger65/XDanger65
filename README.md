@@ -30,13 +30,6 @@ a passionate developer with a strong interest in Flutter, microservices, Java, a
 
 ---
 
-## 🗂️ Version Control & Tools
-- GitHub  
-- Jira  
-- Notion
-
----
-
 ## Connect with Me
 Feel free to connect with me:
 - **Email:** [eslammosta65@gmail.com](mailto:eslammosta65@gmail.com)
