@@ -1,22 +1,39 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=false&width=500&lines=Welcome+to+XDanger65's+GitHub+Profile!;I'm+Eslam+Mostafa+%F0%9F%91%8B" alt="Welcome to XDanger65's GitHub Profile" />
 
-## About Me
-Hi there! I'm **Eslam Mostafa**, a passionate developer with a strong interest in Flutter, microservices, Java, and cybersecurity. My projects often focus on building scalable applications, implementing design patterns, and exploring new technologies.
+## 🎯 Objective
+Senior 2 Computer Software Student, passionate about Embedded Systems development.  
+a passionate developer with a strong interest in Flutter, microservices, Java, and cybersecurity. My projects often focus on building scalable applications, implementing design patterns, and exploring new technologies.
 
 ---
 
-## Skills
-- **Languages:** Dart, Java, JavaScript, Node.js
-- **Frameworks & Libraries:** Flutter, Express.js
-- **Databases:** Firebase Firestore, MongoDB, SQL
-- **Other:** Git, REST APIs, MVC Architecture, Microservices
+## 💻 Software Skills
+- **Core Concepts:**  
+  Data Structures, OOP, Algorithms, Agile Software Development Principles  
+  Operating Systems, Computer Architecture (Fundamentals, Clocks, Interrupts)  
+  Embedded C, MCU Essential Peripherals  
+  HTML, CSS, JavaScript, Artificial Intelligence (basic)  
+  Linux Administration , Flutter Frame Work 
 
 ---
 
-## What I'm Working On
-I'm currently working on:
-1. A notification management system using Node.js and microservices architecture.
-2. Advanced Flutter apps with Bloc for state management.
+## 🚀 Programming Languages
+- **C, C++** *(Professional)*  
+- **Java, MySQL , Dart** *(Intermediate)*  
+- **Python, Assembly** *(Basics)*
+
+---
+
+## 🛠️ IDEs
+- VS Code, STM32Cube, Visual Studio, IAR, Keil uVision5  
+- Eclipse, NetBeans, Proteus 8, Code::Blocks, Microchip Studio  
+- VMware, Oracle VM, Arduino, PyCharm, Cisco Packet Tracer
+
+---
+
+## 🗂️ Version Control & Tools
+- GitHub  
+- Jira  
+- Notion
 
 ---
 
