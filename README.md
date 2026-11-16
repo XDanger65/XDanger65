@@ -1,8 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
-\<h2 align="center">Hi, I'm Eslam Mostafa Mohamed\</h2>
+Hi, I'm Eslam Mostafa Mohamed
 
-\<h3 align="center">Cloud / DevOps Engineer | AWS | Linux | Infrastructure as Code\</h3>
+Cloud / DevOps Engineer | AWS | Linux | Infrastructure as Code
 
 
 ---
@@ -192,6 +192,6 @@ I'm always open to connecting with professionals, learning from the community, a
 ---
 
 
-\<p align="center">   \<i>"Continuous learning, practical experience, and automation are the keys to building better infrastructure."\</i> \</p>
+"Continuous learning, practical experience, and automation are the keys to building better infrastructure."
 
-\<h3 align="center">Thanks for visiting my profile! 🚀\</h3>
+Thanks for visiting my profile! 🚀
