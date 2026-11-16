@@ -1,41 +1,201 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=false&width=500&lines=Welcome+to+XDanger65's+GitHub+Profile!;I'm+Eslam+Mostafa+%F0%9F%91%8B" alt="Welcome to XDanger65's GitHub Profile" />
+# 👋 Welcome to My GitHub Profile!
 
-## 🎯 Objective
-Senior 2 Computer Software Student, passionate about Embedded Systems development.  
-a passionate developer with a strong interest in Flutter, microservices, Java, and cybersecurity. My projects often focus on building scalable applications, implementing design patterns, and exploring new technologies.
+\<h2 align="center">Hi, I'm Eslam Mostafa Mohamed\</h2>
 
----
+\<h3 align="center">Cloud / DevOps Engineer | AWS | Linux | Infrastructure as Code\</h3>
 
-## 💻 Software Skills
-- **Core Concepts:**  
-  Data Structures, OOP, Algorithms, Agile Software Development Principles  
-  Operating Systems, Computer Architecture (Fundamentals, Clocks, Interrupts)  
-  Embedded C, MCU Essential Peripherals  
-  HTML, CSS, JavaScript, Artificial Intelligence (basic)  
-  Linux Administration , Flutter Frame Work 
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+System+Administration;Infrastructure+as+Code;Always+Learning+and+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=F75C7E\&center=true\&vCenter=true\&width=650\&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+System+Administration;Infrastructure+as+Code;Always+Learning+and+Building)" alt="Typing SVG" />
+\</p>
 
 ---
 
-## 🚀 Programming Languages
-- **C, C++** *(Professional)*  
-- **Java, MySQL , Dart** *(Intermediate)*  
-- **Python, Assembly** *(Basics)*
+## 🎯 About Me
+
+I'm a Computer Engineering graduate from **Ain Shams University**, passionate about Cloud Computing, DevOps, and Infrastructure Automation.
+
+I specialize in building and automating reliable and scalable cloud infrastructure using AWS and modern DevOps tools. I'm particularly interested in cloud architecture, Infrastructure as Code (IaC), CI/CD automation, containerization, and Linux system administration.
+
+I enjoy solving technical problems, building hands-on projects, and continuously improving my skills through practical experience and learning.
+
+- ☁️ Interested in Cloud Computing and AWS Architecture.
+- ⚙️ Learning and practicing DevOps tools and automation.
+- 🐧 Experienced in Linux administration and troubleshooting.
+- 🚀 Exploring Docker, Kubernetes, Terraform, and CI/CD.
+- 🎓 B.Sc. in Computer Engineering – Ain Shams University.
 
 ---
 
-## 🛠️ IDEs
-- VS Code, STM32Cube, Visual Studio, IAR, Keil uVision5  
-- Eclipse, NetBeans, Proteus 8, Code::Blocks, Microchip Studio  
-- VMware, Oracle VM, Arduino, PyCharm, Cisco Packet Tracer
+## 💻 Technical Skills
+
+### ☁️ Cloud Computing
+
+- Amazon Web Services (AWS)
+- EC2, S3, IAM, Lambda, VPC
+- EKS, CloudWatch, CloudFront, API Gateway
+- Serverless Architecture
+
+### ⚙️ DevOps & Infrastructure as Code
+
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- AWS SAM
+- CloudFormation
+
+### 🔄 CI/CD & Automation
+
+- GitHub Actions
+- CI/CD Pipelines
+- Infrastructure Automation
+- Deployment Automation
+
+### 🐧 Linux & System Administration
+
+- Linux System Administration
+- User and Permission Management
+- Bash Scripting
+- Process Management
+- Linux Networking
+- System Troubleshooting
+
+### 🌐 Networking
+
+- CCNA Concepts
+- TCP/IP
+- LAN / WAN
+- VLANs
+- Routing & Switching
+- Network Troubleshooting
+- SNMP and Network Monitoring
+
+### 💻 Programming & Development
+
+- C / C++
+- Python
+- Java
+- MySQL
+
+### 🛠️ Tools & Version Control
+
+- Git & GitHub
+- Jira
+- Notion
+- Cisco Packet Tracer
+- GNS3
+- Wireshark
 
 ---
 
-## Connect with Me
-Feel free to connect with me:
-- **Email:** [eslammosta65@gmail.com](mailto:eslammosta65@gmail.com)
-- **LinkedIn:** [linkedin.com/in/eslam-mostafa-683339213/](https://www.linkedin.com/in/eslam-mostafa-683339213/)
+## 🚀 Featured Projects
+
+### 1. AWS Serverless Task Manager
+
+Built a serverless REST API for creating and retrieving tasks using AWS services.
+
+**Key Features:**
+
+- RESTful API with JSON input validation.
+- Unique task IDs and UTC timestamps.
+- Serverless backend architecture.
+- Infrastructure deployment using AWS SAM and CloudFormation.
+
+**Technologies:** AWS Lambda, Python 3.13, API Gateway, DynamoDB, AWS SAM, CloudFormation, IAM.
+
+### 2. AWS EC2 Web Server Deployment
+
+Deployed a static website on an Amazon EC2 instance running Amazon Linux 2023.
+
+**Key Features:**
+
+- Installed and configured Apache HTTP Server.
+- Configured security groups for HTTP access.
+- Restricted SSH access to my IP address.
+- Hosted a static website on an EC2 instance.
+
+**Technologies:** AWS EC2, Amazon Linux 2023, Apache, Security Groups, SSH, HTML, CSS.
+
+### 3. IoT Smart Parking System
+
+Designed and developed an IoT-based smart parking system using microcontrollers and ultrasonic sensors.
+
+**Key Features:**
+
+- Real-time vehicle detection.
+- Parking space availability monitoring.
+- Wireless communication and cloud database integration.
+- Firebase Realtime Database integration.
+
+**Technologies:** ESP32, Ultrasonic Sensors, Firebase Realtime Database, Wi-Fi, Cisco Packet Tracer.
+
+### 4. Cisco Network Management & SNMP Security
+
+Configured and monitored Cisco routers using SNMP protocols in simulated network environments.
+
+**Key Features:**
+
+- Configured SNMPv1, SNMPv2c, and SNMPv3.
+- Implemented SNMPv3 authentication and encryption.
+- Configured users, groups, and access permissions.
+- Analyzed network traffic using Wireshark and SnmpB.
+
+**Technologies:** Cisco IOS, SNMP, SNMPv3, GNS3, Wireshark, SnmpB.
+
+---
+
+## 🎓 Training & Professional Development
+
+| Training                  | Organization     | Date           |
+| ------------------------- | ---------------- | -------------- |
+| Linux Administration      | EDGES Academy    | Aug – Sep 2024 |
+| Cybersecurity – Blue Team | WE Telecom Egypt | Mar – Apr 2024 |
+| Artificial Intelligence   | WE Telecom Egypt | Aug – Sep 2022 |
+
+---
+
+## 🏆 Certifications & Courses
+
+- AWS 1: Introduction to Cloud Computing – Manara (2026)
+- Linux Administration – EDGES Company (2024)
+- Cybersecurity – WE Telecom Egypt (2024)
+- Agile Scrum Framework – Almentor (2024)
+- Artificial Intelligence – WE Telecom Egypt (2022)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Engineering**
+
+Ain Shams University | 2020 – 2025
+
+Graduation Project: AI-Powered E-Learning Platform – A Microservices Architecture Approach.
+
+Grade: A+
+
+---
+
+## 🌍 Languages
+
+- Arabic: Native
+- English: Professional Working Proficiency
+
+---
+
+## 📫 Connect With Me
+
+I'm always open to connecting with professionals, learning from the community, and exploring opportunities in Cloud Computing and DevOps.
+
+- **Email:** [eslammosta65@gmail.com](mailto\:eslammosta65@gmail.com)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/eslam-mostafa-683339213/)
 - **GitHub:** [XDanger65](https://github.com/XDanger65)
+- **Location:** Cairo, Egypt
 
 ---
 
-Thanks for visiting my profile! 🚀
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=XDanger65&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=XDanger65\&label=Profile%20Views\&color=blueviolet\&style=flat)" alt="Profile Views" /> \</p>
+
+\<p align="center">   \<i>"Continuous learning, practical experience, and automation are the keys to building better infrastructure."\</i> \</p>
+
+\<h3 align="center">Thanks for visiting my profile! 🚀\</h3>
