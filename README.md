@@ -4,9 +4,6 @@
 
 \<h3 align="center">Cloud / DevOps Engineer | AWS | Linux | Infrastructure as Code\</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+System+Administration;Infrastructure+as+Code;Always+Learning+and+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=F75C7E\&center=true\&vCenter=true\&width=650\&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+System+Administration;Infrastructure+as+Code;Always+Learning+and+Building)" alt="Typing SVG" />
-\</p>
 
 ---
 
@@ -194,7 +191,6 @@ I'm always open to connecting with professionals, learning from the community, a
 
 ---
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=XDanger65&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=XDanger65\&label=Profile%20Views\&color=blueviolet\&style=flat)" alt="Profile Views" /> \</p>
 
 \<p align="center">   \<i>"Continuous learning, practical experience, and automation are the keys to building better infrastructure."\</i> \</p>
 
